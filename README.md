@@ -12,7 +12,7 @@ Site simples para estudo de Flexbox
 ###### Flex Item ######
 
 - flex-grow
-- felx-basics
+- flex-basics
 - flex-shrink
 - flex
 - order
